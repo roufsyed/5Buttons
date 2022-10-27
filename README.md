@@ -6,7 +6,7 @@
 2. Added material library dependency - implementation 'com.google.android.material:material:1.7.0'
 3. Followed clean code methodology by segregating logic in different functions, and keeping all the strings (texts) in its respective file.
 4. Taken care of the Null pointer exception in email intent.
-5. Handled all the empty string in the contact form section, which could have lead to anyone sending emails with no in customer information.
+5. Handled all the empty string in the contact form section, which could have lead to anyone sending the emails with no customer information.
 6. Handled all the garbage values by making references null.
 7. calibrated Action-bar/top-bar such that web views gets displayed in full-screen.
 8. Implemented dark and light theme support.
